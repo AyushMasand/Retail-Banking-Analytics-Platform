@@ -24,6 +24,13 @@ The platform automates data ingestion, standardization, business modeling, and a
 The final output is an **Executive Customer Action Report**, providing a unified customer view to support operational and strategic decision-making.
 
 ---
+## 💡 Key Features
+
+- Designed a Medallion Data Warehouse (Bronze, Silver, Gold) using SQL Server.
+- Developed automated ETL pipelines with Stored Procedures.
+- Built five business-oriented Gold Layer data marts.
+- Solved customer engagement, relationship banking, lending, and fraud monitoring use cases.
+- Created an Executive Customer Action Report by integrating multiple business domains.
 
 # ❗ Business Problem
 
