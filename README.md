@@ -143,7 +143,7 @@ The Gold Layer contains business-ready analytical data marts designed around bus
 | Customer Loan Summary       | Credit exposure monitoring                 |
 | Transaction Risk Flags      | Transaction risk monitoring                |
 
-```markdown
+
 ## 📊 Business Problems Solved
 
 The analytics platform addresses key business challenges commonly faced by retail banks.
@@ -206,7 +206,6 @@ The analytics platform addresses key business challenges commonly faced by retai
 
 ### 6. Executive Customer Action Report
 **Objective:** Provide a unified customer view by combining engagement, value, customer experience, lending, and transaction risk to support business decision-making.
-```
 
 ## 📊 Business Insights
 
