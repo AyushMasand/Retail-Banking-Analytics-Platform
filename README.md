@@ -273,3 +273,6 @@ Retail-Banking-Analytics-Platform
 This project demonstrates the complete lifecycle of building a SQL Server data warehouse, from raw operational data ingestion to business-ready analytical reporting.
 
 By implementing a layered Medallion Architecture and developing business-focused Gold Layer data marts, the platform transforms operational banking data into actionable insights that support customer engagement, relationship banking, lending analysis, transaction risk monitoring, and executive decision-making.
+## 👨‍💻 Author
+
+**AYUSH**
