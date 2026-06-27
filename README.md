@@ -207,18 +207,6 @@ The analytics platform addresses key business challenges commonly faced by retai
 ### 6. Executive Customer Action Report
 **Objective:** Provide a unified customer view by combining engagement, value, customer experience, lending, and transaction risk to support business decision-making.
 
-## 📊 Business Insights
-
-The project answers business questions across five analytical domains:
-
-* **Customer Engagement & Retention** – Identify inactive customers and retention opportunities.
-* **Customer Value & Relationship Banking** – Segment customers, analyze revenue contribution, and identify cross-selling opportunities.
-* **Customer Experience** – Evaluate customer satisfaction and identify customers requiring proactive follow-up.
-* **Loan Portfolio & Credit Exposure** – Monitor lending exposure and identify customers requiring credit review.
-* **Fraud & Risk Monitoring** – Detect suspicious transaction patterns and prioritize fraud investigations.
-
----
-
 ## 📋 Executive Customer Action Report
 
 The final report combines all Gold Layer data marts into a unified customer view.
