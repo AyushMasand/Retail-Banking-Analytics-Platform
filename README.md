@@ -265,14 +265,6 @@ Retail-Banking-Analytics-Platform
 │   ├── 05_business_insights.sql
 │   └── 06_executive_customer_action_report.sql
 │
-├── dashboard
-│   └── Banking_Analytics_Dashboard.xlsx
-│
-├── images
-│   ├── architecture.png
-│   ├── dashboard.png
-│   └── executive_report.png
-│
 ├── README.md
 └── LICENSE
 ```
