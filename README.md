@@ -96,9 +96,6 @@ The solution follows the Medallion Architecture to progressively improve data qu
                             │
                             ▼
           Executive Customer Action Report
-                            │
-                            ▼
-                  Excel Dashboard
 ```
 
 ---
