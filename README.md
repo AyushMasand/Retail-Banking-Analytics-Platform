@@ -143,7 +143,105 @@ The Gold Layer contains business-ready analytical data marts designed around bus
 | Customer Loan Summary       | Credit exposure monitoring                 |
 | Transaction Risk Flags      | Transaction risk monitoring                |
 
+```markdown
+## 📊 Business Problems Solved
+
+The analytics platform addresses key business challenges commonly faced by retail banks.
+
+### 1. Customer Engagement & Retention
+**Objective:** Monitor customer activity and identify customers requiring retention efforts.
+
+**Analysis Includes:**
+- Active vs Inactive customers
+- Long-term inactive customers
+- Customers who never transacted
+- Inactive customers with active loans
+
 ---
+
+### 2. Customer Value & Relationship Banking
+**Objective:** Identify valuable customers and support relationship banking strategies.
+
+**Analysis Includes:**
+- Customer value segmentation
+- Revenue contribution analysis
+- Pareto (80/20) analysis
+- Cross-selling opportunities
+- Customer relationship recommendations
+
+---
+
+### 3. Customer Experience
+**Objective:** Evaluate customer satisfaction and identify customers requiring proactive engagement.
+
+**Analysis Includes:**
+- High-support customers
+- High-value customers with poor satisfaction
+- Customer satisfaction by engagement level
+- Relationship manager follow-up
+
+---
+
+### 4. Loan Portfolio & Credit Exposure
+**Objective:** Monitor lending exposure and identify customers requiring credit review.
+
+**Analysis Includes:**
+- Loan exposure by customer segment
+- Default analysis
+- Inactive borrowers
+- Credit review recommendations
+
+---
+
+### 5. Fraud & Risk Monitoring
+**Objective:** Detect suspicious transaction patterns and prioritize fraud investigations.
+
+**Analysis Includes:**
+- Suspicious transaction monitoring
+- Repeated risk events
+- High-value customers with flagged transactions
+- Fraud investigation recommendations
+
+---
+
+### 6. Executive Customer Action Report
+**Objective:** Provide a unified customer view by combining engagement, value, customer experience, lending, and transaction risk to support business decision-making.
+```
+
+## 📊 Business Insights
+
+The project answers business questions across five analytical domains:
+
+* **Customer Engagement & Retention** – Identify inactive customers and retention opportunities.
+* **Customer Value & Relationship Banking** – Segment customers, analyze revenue contribution, and identify cross-selling opportunities.
+* **Customer Experience** – Evaluate customer satisfaction and identify customers requiring proactive follow-up.
+* **Loan Portfolio & Credit Exposure** – Monitor lending exposure and identify customers requiring credit review.
+* **Fraud & Risk Monitoring** – Detect suspicious transaction patterns and prioritize fraud investigations.
+
+---
+
+## 📋 Executive Customer Action Report
+
+The final report combines all Gold Layer data marts into a unified customer view.
+
+Each customer is evaluated across:
+
+* Customer Engagement
+* Customer Value
+* Customer Experience
+* Loan Portfolio
+* Transaction Risk
+
+The report generates business recommendations such as:
+
+* Immediate Executive Review
+* Relationship Manager Follow-up
+* Credit Review
+* Cross-Sell Loan Products
+* Retention Campaign
+* Routine Monitoring
+
+
 
 # 🛠️ Technologies Used
 
@@ -157,7 +255,6 @@ The Gold Layer contains business-ready analytical data marts designed around bus
 * Data Warehousing
 * ETL Development
 * Medallion Architecture
-* Microsoft Excel
 
 ---
 
